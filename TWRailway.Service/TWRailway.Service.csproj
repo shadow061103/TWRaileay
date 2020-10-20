@@ -9,4 +9,9 @@
     <ProjectReference Include="..\TWRailway.Repository\TWRailway.Repository.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+    <Folder Include="Implements\" />
+  </ItemGroup>
+
 </Project>

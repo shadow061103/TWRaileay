@@ -28,6 +28,6 @@ D:\SideProject\TWRailway\TWRailway.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi
 D:\SideProject\TWRailway\TWRailway.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 D:\SideProject\TWRailway\TWRailway.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\SideProject\TWRailway\TWRailway.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\SideProject\TWRailway\TWRailway.Api\obj\Debug\netcoreapp3.1\TWRailway.Api.csproj.CoreCompileInputs.cache
-D:\SideProject\TWRailway\TWRailway.Api\obj\Debug\netcoreapp3.1\TWRailway.Api.MvcApplicationPartsAssemblyInfo.cs
-D:\SideProject\TWRailway\TWRailway.Api\obj\Debug\netcoreapp3.1\TWRailway.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\SideProject\TWRailway\TWRailway.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\SideProject\TWRailway\TWRailway.Api\bin\Debug\netcoreapp3.1\CoreProfiler.dll
+D:\SideProject\TWRailway\TWRailway.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

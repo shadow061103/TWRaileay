@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nuget.evertrust.com.tw/nuget": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://package.evertrust.com.tw/nuget/Default": {},
           "https://package.evertrust.com.tw/nuget/mhj": {}
@@ -51,9 +50,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
+            },
+            "coreprofiler": {
+              "target": "Package",
+              "version": "[1.1.4, )"
             }
           },
           "imports": [
@@ -102,7 +109,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nuget.evertrust.com.tw/nuget": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://package.evertrust.com.tw/nuget/Default": {},
           "https://package.evertrust.com.tw/nuget/mhj": {}
@@ -120,6 +126,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "CoreProfiler.Web": {
+              "target": "Package",
+              "version": "[1.1.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -163,7 +179,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nuget.evertrust.com.tw/nuget": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://package.evertrust.com.tw/nuget/Default": {},
           "https://package.evertrust.com.tw/nuget/mhj": {}
@@ -228,7 +243,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nuget.evertrust.com.tw/nuget": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://package.evertrust.com.tw/nuget/Default": {},
           "https://package.evertrust.com.tw/nuget/mhj": {}
