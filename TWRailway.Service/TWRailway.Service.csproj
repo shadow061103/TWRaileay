@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TWRailway.Common\TWRailway.Common.csproj" />
+    <ProjectReference Include="..\TWRailway.Repository\TWRailway.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

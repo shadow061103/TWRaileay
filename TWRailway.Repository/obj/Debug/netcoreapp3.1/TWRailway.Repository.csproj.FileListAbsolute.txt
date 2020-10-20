@@ -1,0 +1,12 @@
+D:\SideProject\TWRailway\TWRailway.Repository\bin\Debug\netcoreapp3.1\TWRailway.Repository.deps.json
+D:\SideProject\TWRailway\TWRailway.Repository\bin\Debug\netcoreapp3.1\TWRailway.Repository.dll
+D:\SideProject\TWRailway\TWRailway.Repository\bin\Debug\netcoreapp3.1\TWRailway.Repository.pdb
+D:\SideProject\TWRailway\TWRailway.Repository\obj\Debug\netcoreapp3.1\TWRailway.Repository.csprojAssemblyReference.cache
+D:\SideProject\TWRailway\TWRailway.Repository\obj\Debug\netcoreapp3.1\TWRailway.Repository.AssemblyInfoInputs.cache
+D:\SideProject\TWRailway\TWRailway.Repository\obj\Debug\netcoreapp3.1\TWRailway.Repository.AssemblyInfo.cs
+D:\SideProject\TWRailway\TWRailway.Repository\obj\Debug\netcoreapp3.1\TWRailway.Repository.csproj.CoreCompileInputs.cache
+D:\SideProject\TWRailway\TWRailway.Repository\obj\Debug\netcoreapp3.1\TWRailway.Repository.dll
+D:\SideProject\TWRailway\TWRailway.Repository\obj\Debug\netcoreapp3.1\TWRailway.Repository.pdb
+D:\SideProject\TWRailway\TWRailway.Repository\bin\Debug\netcoreapp3.1\TWRailway.Common.dll
+D:\SideProject\TWRailway\TWRailway.Repository\bin\Debug\netcoreapp3.1\TWRailway.Common.pdb
+D:\SideProject\TWRailway\TWRailway.Repository\obj\Debug\netcoreapp3.1\TWRailway.Repository.csproj.CopyComplete

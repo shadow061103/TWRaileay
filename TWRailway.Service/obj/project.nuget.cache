@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1O88yn3uz5OEE3wwU8ToNBXyuTIJUcgPMEitX/sDwJkKZXYBtDhFJeE3kVzPXraPwclGtLOlTLWPHwNmyGU0yA==",
+  "success": true,
+  "projectFilePath": "D:\\SideProject\\TWRailway\\TWRailway.Service\\TWRailway.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\G5341\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

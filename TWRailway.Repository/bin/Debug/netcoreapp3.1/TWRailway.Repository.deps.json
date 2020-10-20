@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TWRailway.Repository/1.0.0": {
+        "dependencies": {
+          "TWRailway.Common": "1.0.0"
+        },
+        "runtime": {
+          "TWRailway.Repository.dll": {}
+        }
+      },
+      "TWRailway.Common/1.0.0": {
+        "runtime": {
+          "TWRailway.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TWRailway.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TWRailway.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
