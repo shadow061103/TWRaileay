@@ -38,14 +38,15 @@ namespace TWRailway.Api.Infrastructure.Extension
 
             if (response.Exists.Equals(false))
             {
-                client.Indices.Create(defaultIndex, c => c.Map<Traininfo>(m => m
-                    .AutoMap()
-                    .Properties(p => p
-                        .Keyword(kw => kw
-                            .Name(w => w.Train)
-                        ))
-                    )
+                var a = client.Indices.Create(defaultIndex, c => c.Map<Traininfo>(m => m
+                      .AutoMap()
+                      .Properties(p => p
+                          .Keyword(kw => kw
+                              .Name(w => w.Train)
+                          ))
+                      )
                 );
+                Console.WriteLine(a.IsValid);
             }
 
             services.AddSingleton<IElasticClient>(client);

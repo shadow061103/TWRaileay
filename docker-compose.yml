@@ -5,13 +5,13 @@ services:
     image: elasticsearch:7.9.2
     container_name: elasticsearch-792
     ports:
-      - "9400:9400"
-      - "9500:9500"
+      - "9200:9200"
+      - "9300:9300"
     environment:
       - cluster.name=docker-cluster
       - bootstrap.memory_lock=true
       - http.host=0.0.0.0
-      - http.port=9400
+      - http.port=9200
       - transport.host=127.0.0.1
       - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
       - "http.cors.allow-origin=http://127.0.0.1:1358"
@@ -31,25 +31,35 @@ services:
     image: kibana:7.9.2
     container_name: kibana-792
     environment:
-      SERVER_NAME: kibana-server1
-      ELASTICSEARCH_URL: http://elasticsearch:9400
+      SERVER_NAME: kibana-server
+      ELASTICSEARCH_URL: http://elasticsearch:9200
     networks:
       - esnet
     depends_on:
       - elasticsearch
     ports:
-      - "5701:5601"
+      - "5601:5601"
 
   cerebro:
     image: yannart/cerebro:latest
-    container_name: cerebro-079
+    container_name: cerebro-073
     networks:
       - esnet
     ports:
-      - "9901:9001"
+      - "9900:9000"
     depends_on:
       - elasticsearch      
  
+ 
+      
+  dejavu:
+    image: appbaseio/dejavu:latest
+    container_name: dejavu
+    networks:
+      - esnet    
+    ports:
+     - "1358:1358"
+
 volumes:
   es_data:
     driver: local      
