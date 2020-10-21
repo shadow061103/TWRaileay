@@ -6,3 +6,4 @@ D:\SideProject\TWRailway\TWRailway.Common\obj\Debug\netcoreapp3.1\TWRailway.Comm
 D:\SideProject\TWRailway\TWRailway.Common\obj\Debug\netcoreapp3.1\TWRailway.Common.AssemblyInfo.cs
 D:\SideProject\TWRailway\TWRailway.Common\obj\Debug\netcoreapp3.1\TWRailway.Common.dll
 D:\SideProject\TWRailway\TWRailway.Common\obj\Debug\netcoreapp3.1\TWRailway.Common.pdb
+D:\SideProject\TWRailway\TWRailway.Common\obj\Debug\netcoreapp3.1\TWRailway.Common.csproj.CoreCompileInputs.cache

@@ -13,4 +13,8 @@
     <Folder Include="Implements\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="NEST" Version="7.9.0" />
+  </ItemGroup>
+
 </Project>

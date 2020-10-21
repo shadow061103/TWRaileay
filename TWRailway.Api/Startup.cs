@@ -9,6 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using TWRailway.Api.Infrastructure.DI;
+using TWRailway.Api.Infrastructure.Extension;
 
 namespace TWRailway.Api
 {
@@ -43,6 +44,8 @@ namespace TWRailway.Api
                     c.IncludeXmlComments(xmlFile, true);
                 }
             });
+
+            services.AddElasticsearch(Configuration);
 
             services.AddDependencyInjection(Configuration);
 

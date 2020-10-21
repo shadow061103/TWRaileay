@@ -20,5 +20,9 @@
     <ProjectReference Include="..\TWRailway.Service\TWRailway.Service.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
 
 </Project>
