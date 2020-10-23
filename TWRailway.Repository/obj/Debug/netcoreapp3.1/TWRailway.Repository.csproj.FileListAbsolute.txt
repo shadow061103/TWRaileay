@@ -9,4 +9,3 @@ D:\SideProject\TWRailway\TWRailway.Repository\obj\Debug\netcoreapp3.1\TWRailway.
 D:\SideProject\TWRailway\TWRailway.Repository\bin\Debug\netcoreapp3.1\TWRailway.Common.dll
 D:\SideProject\TWRailway\TWRailway.Repository\bin\Debug\netcoreapp3.1\TWRailway.Common.pdb
 D:\SideProject\TWRailway\TWRailway.Repository\obj\Debug\netcoreapp3.1\TWRailway.Repository.csproj.CopyComplete
-D:\SideProject\TWRailway\TWRailway.Repository\obj\Debug\netcoreapp3.1\TWRailway.Repository.csproj.CoreCompileInputs.cache

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rZvy0j6bNNEz/6bCalDdrrL31ZCC3P8BFKndn1NZC42UyoyfBQVQJshJQgBCRE4LhejKMQa6uqEOKHVs5sXUKA==",
+  "dgSpecHash": "urZDjk832b1AkqfHSkwha1d7qSOsQlzNDI4MIZ0NnWh7rSeOAKSguBIrDO/EikGrMY2gfncCMYlVBLrJbMNDYA==",
   "success": true,
   "projectFilePath": "D:\\SideProject\\TWRailway\\TWRailway.Api\\TWRailway.Api.csproj",
   "expectedPackageFiles": [
@@ -63,6 +63,7 @@
     "C:\\Users\\G5341\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\G5341\\.nuget\\packages\\nest\\7.9.0\\nest.7.9.0.nupkg.sha512",
     "C:\\Users\\G5341\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\G5341\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
     "C:\\Users\\G5341\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\G5341\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\G5341\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",

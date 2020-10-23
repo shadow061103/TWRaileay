@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BypKXvzPkIXyM/f1b6I925111OGsTbKwTH5SfOBK5t0si9E5Z1vdxucvw3S3VDS5zyfAciionp/cmVAjZ/t3Kw==",
+  "dgSpecHash": "KDKV5GyeWrvHqb1a6DcBE0B7Pc1SqXtvl+gTUXoBLlFSJiS0YJdFdHtPUO+kXYKeZuSFancRshZr20vnj1/rpg==",
   "success": true,
   "projectFilePath": "D:\\SideProject\\TWRailway\\TWRailway.Service\\TWRailway.Service.csproj",
   "expectedPackageFiles": [
@@ -60,6 +60,7 @@
     "C:\\Users\\G5341\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\G5341\\.nuget\\packages\\nest\\7.9.0\\nest.7.9.0.nupkg.sha512",
     "C:\\Users\\G5341\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\G5341\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
     "C:\\Users\\G5341\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\G5341\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\G5341\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",

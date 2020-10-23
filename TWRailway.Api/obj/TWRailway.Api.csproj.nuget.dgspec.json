@@ -204,6 +204,10 @@
             "NEST": {
               "target": "Package",
               "version": "[7.9.0, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.7, )"
             }
           },
           "imports": [

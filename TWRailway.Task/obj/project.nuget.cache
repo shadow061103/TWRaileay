@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UYVyt3c0pY5zQtlTpIXvcSfU/a32Ise7/QFcH0IfI+YimSq+3Ah3DGh9vVF2IkhrDHF6IaVrQ08CfLnl3wc+Ow==",
+  "dgSpecHash": "Sq8n8528nXfrIOGP8mLPmfCj/LEGlOUGyKudcelC38Q91JVA1lsg+Sn/VadJQchHpUqBF6MUzP36Ji0Jr8C6Hg==",
   "success": true,
   "projectFilePath": "D:\\SideProject\\TWRailway\\TWRailway.Task\\TWRailway.Task.csproj",
   "expectedPackageFiles": [
@@ -70,6 +70,7 @@
     "C:\\Users\\G5341\\.nuget\\packages\\nest\\7.9.0\\nest.7.9.0.nupkg.sha512",
     "C:\\Users\\G5341\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\G5341\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512",
+    "C:\\Users\\G5341\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
     "C:\\Users\\G5341\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\G5341\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\G5341\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
