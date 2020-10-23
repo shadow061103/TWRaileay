@@ -1,0 +1,294 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SideProject\\TWRailway\\TWRailway.Task\\TWRailway.Task.csproj": {}
+  },
+  "projects": {
+    "D:\\SideProject\\TWRailway\\TWRailway.Common\\TWRailway.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SideProject\\TWRailway\\TWRailway.Common\\TWRailway.Common.csproj",
+        "projectName": "TWRailway.Common",
+        "projectPath": "D:\\SideProject\\TWRailway\\TWRailway.Common\\TWRailway.Common.csproj",
+        "packagesPath": "C:\\Users\\G5341\\.nuget\\packages\\",
+        "outputPath": "D:\\SideProject\\TWRailway\\TWRailway.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\G5341\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://package.evertrust.com.tw/nuget/Default": {},
+          "https://package.evertrust.com.tw/nuget/mhj": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "CoreProfiler.Web": {
+              "target": "Package",
+              "version": "[1.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SideProject\\TWRailway\\TWRailway.Repository\\TWRailway.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SideProject\\TWRailway\\TWRailway.Repository\\TWRailway.Repository.csproj",
+        "projectName": "TWRailway.Repository",
+        "projectPath": "D:\\SideProject\\TWRailway\\TWRailway.Repository\\TWRailway.Repository.csproj",
+        "packagesPath": "C:\\Users\\G5341\\.nuget\\packages\\",
+        "outputPath": "D:\\SideProject\\TWRailway\\TWRailway.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\G5341\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://package.evertrust.com.tw/nuget/Default": {},
+          "https://package.evertrust.com.tw/nuget/mhj": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\SideProject\\TWRailway\\TWRailway.Common\\TWRailway.Common.csproj": {
+                "projectPath": "D:\\SideProject\\TWRailway\\TWRailway.Common\\TWRailway.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "NEST": {
+              "target": "Package",
+              "version": "[7.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SideProject\\TWRailway\\TWRailway.Service\\TWRailway.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SideProject\\TWRailway\\TWRailway.Service\\TWRailway.Service.csproj",
+        "projectName": "TWRailway.Service",
+        "projectPath": "D:\\SideProject\\TWRailway\\TWRailway.Service\\TWRailway.Service.csproj",
+        "packagesPath": "C:\\Users\\G5341\\.nuget\\packages\\",
+        "outputPath": "D:\\SideProject\\TWRailway\\TWRailway.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\G5341\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://package.evertrust.com.tw/nuget/Default": {},
+          "https://package.evertrust.com.tw/nuget/mhj": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\SideProject\\TWRailway\\TWRailway.Common\\TWRailway.Common.csproj": {
+                "projectPath": "D:\\SideProject\\TWRailway\\TWRailway.Common\\TWRailway.Common.csproj"
+              },
+              "D:\\SideProject\\TWRailway\\TWRailway.Repository\\TWRailway.Repository.csproj": {
+                "projectPath": "D:\\SideProject\\TWRailway\\TWRailway.Repository\\TWRailway.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SideProject\\TWRailway\\TWRailway.Task\\TWRailway.Task.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SideProject\\TWRailway\\TWRailway.Task\\TWRailway.Task.csproj",
+        "projectName": "TWRailway.Task",
+        "projectPath": "D:\\SideProject\\TWRailway\\TWRailway.Task\\TWRailway.Task.csproj",
+        "packagesPath": "C:\\Users\\G5341\\.nuget\\packages\\",
+        "outputPath": "D:\\SideProject\\TWRailway\\TWRailway.Task\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\G5341\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://package.evertrust.com.tw/nuget/Default": {},
+          "https://package.evertrust.com.tw/nuget/mhj": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\SideProject\\TWRailway\\TWRailway.Common\\TWRailway.Common.csproj": {
+                "projectPath": "D:\\SideProject\\TWRailway\\TWRailway.Common\\TWRailway.Common.csproj"
+              },
+              "D:\\SideProject\\TWRailway\\TWRailway.Repository\\TWRailway.Repository.csproj": {
+                "projectPath": "D:\\SideProject\\TWRailway\\TWRailway.Repository\\TWRailway.Repository.csproj"
+              },
+              "D:\\SideProject\\TWRailway\\TWRailway.Service\\TWRailway.Service.csproj": {
+                "projectPath": "D:\\SideProject\\TWRailway\\TWRailway.Service\\TWRailway.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
